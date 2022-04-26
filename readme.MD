@@ -49,7 +49,7 @@ applicantLogPerformance = fitting(difficulty, applicantLog, 'Missy', scale=10)
 <br>
 
 <p align="center">
-  <img src="plot/missy.png" alt="Applicant Log Performance"/>
+  <img src="https://github.com/Phil-Barv/Regression-Models-for-Applicant-Best-Fit/blob/main/plots/Missy.png" alt="Applicant Log Performance"/>
 </p>
 
 <br>
@@ -63,7 +63,7 @@ applicantExponPerformance = fitting(difficulty, applicantExpon,'Susie', scale=20
 <br>
 
 <p align="center">
-  <img src="plot/susie.png" alt="Applicant Exponential Performance"/>
+  <img src="https://github.com/Phil-Barv/Regression-Models-for-Applicant-Best-Fit/blob/main/plots/Susie.png" alt="Applicant Exponential Performance"/>
 </p>
 
 <br>
@@ -77,7 +77,7 @@ applicantUniformPerformance = fitting(difficulty, applicantUniform, 'Stacie', sc
 <br>
 
 <p align="center">
-  <img src="plot/stacie.png" alt="Applicant Uniform Performance"/>
+  <img src="https://github.com/Phil-Barv/Regression-Models-for-Applicant-Best-Fit/blob/main/plots/Stacie.png" alt="Applicant Uniform Performance"/>
 </p>
 
 <br>
